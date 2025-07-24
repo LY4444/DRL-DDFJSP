@@ -2,7 +2,7 @@
 # # Introduction
   Dear readers, thank you for your esteemed visit. This repository will share the full code of the paper ''Dynamic Scheduling for Distributed Flexible Job Shop Using Deep Reinforcement Learning'' after it is accepted by the reviewing journal. In the following section, we describe the content of these code files in detail.
 # # # Description of code files
-# # # # Code files in the folder ''drl''
+# # # # Code files in the folder ''Drl''
 1. Distributed_flexible_job_shop.py. It is used for establishing an distributed flexible job shop scheduling environment. This environment contains the updating function of state features, the action function, and the scheduling function.
 2. Objection_for_DDFJSP.py. It is used for creating job and machine objects and contains their data updating functions.
 3. Job_creator.py. It is responsible for generating instances under different production configurations.
@@ -11,7 +11,7 @@
 6. Distributed_flexible_job_shop_P.py. It has a structure similar to the "Distributed_flexible_job_shop.py", but contains all combined priority dispatching rules (PDRs).
 7. Priority_dispatching_rule.py. It owns the similar structure and function with ''Composite_rule.py'' and is utilized for evaluating combined PDRs.
 8. As for other code files namely DRL_Chang.py, DRL_Gui.py, DRL_Luo.py, DRL_Wang.py, DRL_Zhang.py, and DRL_Lei, they are the comparative algorithms in Section 6.3.3.
-# # # # Code files in the folder ''metaheuristics'
+# # # # Code files in the folder ''Metaheuristics'
 1. Distributed_flexible_job_shop_L. It is used for establishing an distributed flexible job shop scheduling environment. This environment contains the information updating function. The structure and function of Distributed_flexible_job_shop_Z.py is similar to it.
 2. Encode_L.py and Encode_Z.py. They contain the ''encode'' class and are used for generating the initial population.
 3. Decode_L.py and Decode_Z.py. They include the ''decode'' class and are responsible for decoding the chromosomes of the population.
