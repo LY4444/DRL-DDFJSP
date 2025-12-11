@@ -35,3 +35,10 @@
 10. 422.mod. It is the CPLEX codes of intance 422.
 11. 433.dat. It is the prameters of intance 433.
 12. 433.mod. It is the CPLEX codes of intance 433.
+# # # # Files in the folder ''Gurobi''
+1. 222.py. It is the Gurobi codes and parameters of intance 222.
+2. 233.py. It is the Gurobi codes and parameters of intance 233.
+3. 322.py. It is the Gurobi codes and parameters of intance 322.
+4. 333.py. It is the Gurobi codes and parameters of intance 333.
+5. 422.py. It is the Gurobi codes and parameters of intance 422.
+6. 433.py. It is the Gurobi codes and parameters of intance 433.
